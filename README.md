@@ -16,7 +16,7 @@ Cd to build folder and use `./fileName` to run.
 
 The first window you see:
 
-![](/home/soolmaz/Pictures/Screenshot from 2021-07-28 15-43-00.png)
+![](https://raw.githubusercontent.com/soolmaz-mk/Circles/main/Screenshot%20from%202021-07-28%2015-43-00.png)
 
 Click on the window and move to create a circle:
 
