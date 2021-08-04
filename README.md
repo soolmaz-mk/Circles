@@ -24,7 +24,7 @@ Click on the window and move to create a circle:
 
 You can create different circles with different sizes wherever you want:
 
-![](/home/soolmaz/Pictures/Screenshot from 2021-07-28 15-43-55.png)
+![](https://raw.githubusercontent.com/soolmaz-mk/Circles/main/Screenshot%20from%202021-07-28%2015-43-55.png)
 
 And then move them:
 
