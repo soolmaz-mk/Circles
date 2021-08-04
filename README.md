@@ -28,5 +28,5 @@ You can create different circles with different sizes wherever you want:
 
 And then move them:
 
-![](/home/soolmaz/Pictures/Screenshot from 2021-07-28 15-49-31.png)
+![](https://raw.githubusercontent.com/soolmaz-mk/Circles/main/Screenshot%20from%202021-07-28%2015-49-10.png)
 
