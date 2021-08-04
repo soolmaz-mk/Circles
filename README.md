@@ -6,7 +6,7 @@ The built binary will save in build folder.
 
 Cd to build folder and use `./fileName` to run.
 
-![alt text](https://raw.githubusercontent.com/soolmaz-mk/Circles/main/Screenshot%20from%202021-07-28%2015-30-24.png)
+![alt text]()
 
 (**is_drawing 1** means user is **drawing**,
 
